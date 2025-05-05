@@ -13,23 +13,23 @@
 - 🧠 Keyboard-first workflow lover — yes, I am learning to code in **Vim**!
 
 <p align="center" >
-  <img src="https://skillicons.dev/icons?i=html" height="30" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="30" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="30" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=appwrite" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
 </p>
 
 <img height="12" />
